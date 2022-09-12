@@ -1,0 +1,2 @@
+This is file from git_work repository 
+Being pushed to the github
