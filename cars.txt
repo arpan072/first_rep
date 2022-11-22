@@ -1,3 +1,0 @@
-this is cars .txt file. do not edit this
-this edit is from the developer 
-collaborating with the designer.
